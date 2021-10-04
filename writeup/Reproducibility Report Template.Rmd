@@ -26,7 +26,7 @@ There are a few challenges when replicating this particular study using an onlin
 
 ### Links
 
-Project repository (on Github): [Link to repository](https://rpubs.com/greyes96/psych251)
+Project repository (on Github): [Link to repository](https://github.com/psych251/mani2013)
 
 Original paper (as hosted in your repo): [Link to paper](https://github.com/psych251/mani2013/blob/309613ab301ff751b23d3e86265e81e5a544b4e8/original_paper/Mani%20et%20al.%20(2013).pdf)
 
