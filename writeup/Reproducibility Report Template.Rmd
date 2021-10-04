@@ -1,0 +1,91 @@
+---
+title: "Reproducibility Report for Study Poverty Impedes Cognitive Function by Mani et al. (2013, Science)"
+author: "Gabriel Reyes (gareyes@stanford.edu)"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  html_document:
+    toc: yes
+    toc_depth: 3
+    toc_float:
+      collapsed: false
+---
+
+## Introduction
+
+### Justification for choice of study
+
+For this project, I will be replicating Mani et al.'s 2013 *Science* paper that looked at how economic scarcity affected cognitive function in adults. I chose to replicate this paper because **I am interested in researching how poverty-related stressors affect brain development and learning**. The results of this paper provided a causal description of an environmental impact on cognition as a result of financial stress, which, to the best of my knowledge, has not yet been examined in school-aged youth. However, before examining whether or not economic scarcity can also affect cognitive systems integral to learning in children and adolescents, I want to first examine the validity scarcity in an adult population. If my replication study is able to successfully reproduce similar results as the original paper, then I hope that this can be further investigated in younger populations.   
+
+### Description of stimuli and procedures
+
+In this study, participants will first be randomly assigned to review and respond to a series of financially difficult or easy scenarios. Afterward a brief break, they will participate in two cognitive tasks: the first will compose of a series of Raven's matrices puzzles, often used as a proxy for fluid reasoning; the second task will gauge cognitive control using the spatial incompatibility task. In the spatial incompatibility task, participants will view objects on one side of the screen and will either have to press a button if it is on the same or opposite side depending on the trail's instructions. Participant's cognitive control will be measured based on both speed and accuracy.
+
+### Anticipated challenges
+
+There are a few challenges when replicating this particular study using an online format. First, in the original study, participants were shoppers at a New Jersey mall, and their data will be compared to participants on Prolific. This could potentially affect replicating the results of the study given the convenience sampling of the original paper. Additionally, the materials---both the original paper and the supplemental materials---do not explicitly mention in sufficient detail how they ensured participants comprehended and carefully examined each scenario. There is also no mention as to how long they had to review them. As a result, it may be difficult to compose similar comprehension checks and induce a scarcity effect via a remote format. Furthermore, with regards to the analysis, it is not quite clear how they grouped participants into "rich" or "poor" categories in the 2013 paper. Prior to running an analysis, I would like to pre-register this decision as to not effect the final results, but how to carefully and properly label someone into these two groups could affect the final results. 
+
+### Links
+
+Project repository (on Github): [Link to repository](https://rpubs.com/greyes96/psych251)
+
+Original paper (as hosted in your repo): [Link to paper](https://github.com/greyes1996/mani2013/blob/7314cc64a31d3b2e6fb0d812c6d89addfbe75744/original_paper/Mani%20et%20al.%20(2013).pdf)
+
+## Methods
+
+### Description of the steps required to reproduce the results
+
+Please describe all the steps necessary to reproduce the key result(s) of this study. 
+
+### Differences from original study
+
+Explicitly describe known differences in the analysis pipeline between the original paper and yours (e.g., computing environment). The goal, of course, is to minimize those differences, but differences may occur. Also, note whether such differences are anticipated to influence your ability to reproduce the original results.
+
+## Project Progress Check 1
+
+### Measure of success
+
+Please describe the outcome measure for the success or failure of your reproduction and how this outcome will be computed.
+
+
+### Pipeline progress
+
+Earlier in this report, you described the steps necessary to reproduce the key result(s) of this study. Please describe your progress on each of these steps (e.g., data preprocessing, model fitting, model evaluation).
+
+
+## Results
+
+### Data preparation
+
+Data preparation following the analysis plan.
+	
+```{r include=F}
+### Data Preparation
+
+#### Load Relevant Libraries and Functions
+
+#### Import data
+
+#### Data exclusion / filtering
+
+#### Prepare data for analysis - create columns etc.
+```
+
+### Key analysis
+
+The analyses as specified in the analysis plan.  
+
+*Side-by-side graph with original graph is ideal here*
+
+###Exploratory analyses
+
+Any follow-up analyses desired (not required).  
+
+## Discussion
+
+### Summary of Reproduction Attempt
+
+Open the discussion section with a paragraph summarizing the primary result from the key analysis and assess whether you successfully reproduced it, partially reproduced it, or failed to reproduce it.  
+
+### Commentary
+
+Add open-ended commentary (if any) reflecting (a) insights from follow-up exploratory analysis of the dataset, (b) assessment of the meaning of the successful or unsuccessful reproducibility attempt - e.g., for a failure to reproduce the original findings, are the differences between original and present analyses ones that definitely, plausibly, or are unlikely to have been moderators of the result, and (c) discussion of any objections or challenges raised by the current and original authors about the reproducibility attempt (if you contacted them).  None of these need to be long.

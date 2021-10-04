@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/817472/1bdb156c3cdf403fb90d4ed9caf87298
+bundleId: https://api.rpubs.com/api/v1/document/817472/1bdb156c3cdf403fb90d4ed9caf87298
+url: http://rpubs.com/greyes96/817472
+when: 1633305874.38699
+lastSyncTime: 1633305874.387
