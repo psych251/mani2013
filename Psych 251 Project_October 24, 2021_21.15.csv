@@ -1,0 +1,58 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q18,Q12,Q13,Q14,Q15,Q18_1,Q19,Q19_4_TEXT,Q20,Q20_6_TEXT,"easy_scenario1 ",easy_scenario2,easy_scenario3,easy_scenario4,hard_scenario1,hard_scenario2,hard_scenario3,"hard_scenario4 "
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Before we begin, please enter your Prolific ID:","How old are you? (Please only enter digits. For example, if you are 25, please only enter 25)","What is the approximate total income made in your household? (If you have a partner, please include their earnings as well if they contribute to cost of living)",What is the highest level of education you have completed?,What is your current employment status?,How many people currently live in your primary residence? - Total Household Size,What is your gender? - Selected Choice,What is your gender? - Other - Text,What is your ethnicity? - Selected Choice,What is your ethnicity? - Other - Text,"The economy is going through difficult times; suppose your employer needs to make substantial budget cuts. Imagine a scenario in which you received a 5% cut in your salary. Given your situation, would you be able to maintain roughly your same lifestyle under those new circumstances? If not, what changes would you need to make? Would it impact your leisure, housing, or travel plans?
+ 
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Imagine that an unforeseen event requires of you an immediate $200 expense. Are there ways in which you may be able to come up with that amount of money on a very short notice? How would you go about it? Would it cause you long-lasting financial hardship? Would it require you to make sacrifices that have long-term consequences? If so, what kind of sacrifices?
+ 
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Imagine that your car is having some trouble, and requires a $150service. Unfortunately, your auto insurance will cover only 10% of this cost. You now need to decide the following:
+
+	Pay the full amount in cash. Would this require liquidating savings? How would you go about it?
+	Take out a loan, which you can pay back in monthly installments. A typical such loan may require monthly payments of roughly $15 a month for 12 months, which would amount to about $180 total.
+	Take a chance, forego the service, and hope that the car lasts for a while longer. Of course, this leaves open the possibility of breakdown, or even greater expenses in the long run.
+
+How would you go about making this decision? Would it be an easy or a difficult decision for you to make?
+
+
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Suppose you have reached the point where you must replace your old refrigerator. The model you plan to buy offers two alternative financing options:
+
+	You can pay the full amount in cash, which will cost you $399.
+	You can pay in 12 monthly payments, of $40 each, which would amount to a total of $480.
+
+Which financing option would you opt for? Would you have the necessary cash on hand? Would the interest be worth paying in this case?
+
+
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","The economy is going through difficult times; suppose your employer needs to make substantial budget cuts. Imagine a scenario in which you received a 15% cut in your salary. Given your situation, would you be able to maintain roughly your same lifestyle under those new circumstances? If not, what changes would you need to make? Would it impact your leisure, housing, or travel plans?
+ 
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Imagine that an unforeseen event requires of you an immediate $2,000 expense. Are there ways in which you may be able to come up with that amount of money on a very short notice? How would you go about it? Would it cause you long-lasting financial hardship? Would it require you to make sacrifices that have long-term consequences? If so, what kind of sacrifices?
+ 
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Imagine that your car is having some trouble, and requires a $1,500 service. Unfortunately, your auto insurance will cover only 10% of this cost. You now need to decide the following:
+
+	Pay the full amount in cash. Would this require liquidating savings? How would you go about it?
+	Take out a loan, which you can pay back in monthly installments. A typical such loan may require monthly payments of roughly $150 a month for 12 months, which would amount to about $1800 total.
+	Take a chance, forego the service, and hope that the car lasts for a while longer. Of course, this leaves open the possibility of breakdown, or even greater expenses in the long run.
+
+How would you go about making this decision? Would it be an easy or a difficult decision for you to make?
+
+
+
+Please write and explain your response using the space below. If possible, please write at least 25 words.","Suppose you have reached the point where you must replace your old refrigerator. The model you plan to buy offers two alternative financing options:
+
+	You can pay the full amount in cash, which will cost you $999.
+	You can pay in 12 monthly payments, of $100 each, which would amount to a total of $1200.
+
+Which financing option would you opt for? Would you have the necessary cash on hand? Would the interest be worth paying in this case?
+
+
+
+Please write and explain your response using the space below. If possible, please write at least 25 words."
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID12_TEXT""}","{""ImportId"":""QID13""}","{""ImportId"":""QID14""}","{""ImportId"":""QID15""}","{""ImportId"":""QID18_1""}","{""ImportId"":""QID19""}","{""ImportId"":""QID19_4_TEXT""}","{""ImportId"":""QID20""}","{""ImportId"":""QID20_6_TEXT""}","{""ImportId"":""QID2_TEXT""}","{""ImportId"":""QID4_TEXT""}","{""ImportId"":""QID6_TEXT""}","{""ImportId"":""QID5_TEXT""}","{""ImportId"":""QID7_TEXT""}","{""ImportId"":""QID8_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID10_TEXT""}"
+2021-10-20 22:43:31,2021-10-20 22:44:02,Survey Preview,,100,30,True,2021-10-20 22:44:02,R_29om1dw48ioIYlY,,,,,37.4720001220703125,-122.231201171875,preview,EN,,25,"$50,000",Professional degree,Student,2,Male,,Other,,,,,,,,,
+2021-10-21 11:49:05,2021-10-21 11:53:45,IP Address,99.144.119.216,100,279,True,2021-10-21 11:53:45,R_O3CJO8YVxbckKKl,,,,,37.385894775390625,-122.08819580078125,anonymous,EN,,27,"More than $150,000",Professional degree,Student,2,Female,,Black or African American,,"I would be able to maintain the same lifestyle under these circumstances, but that is only including my partners' income.  If it were solely my income, I would definitely need to make changes -- I would not be able to spend very much on any discretionary activities. ","Again, as of now, I could handle this.  Again, this is only because of my partner's finances.  If it were just me on my grad student salary, this would cause me hardship.  I would have to again sacrifice almost all discretionary income. ","So now I would pay the full amount in cash -- I would only be able to do this because of my partner's salary. If I were on my own, and what I have done in the past with limited financial means was go to step 3. ","Very similarly to the last questions, I would currently pay the full amount in cash, but that is only because of my partner's income. ",,,,
+2021-10-22 12:02:15,2021-10-22 12:06:58,IP Address,128.12.123.174,100,282,True,2021-10-22 12:06:58,R_2aFZNRweJ9glkJ1,,,,,37.423004150390625,-122.1638946533203125,anonymous,EN,,25,,Professional degree,Student,2,Female,,White,,"I think I'd be able to maintain my lifestyle, but might have less to put in savings. I'd probably be more conscientious with small ""nice-to-have"" everyday purchases like eating out.",This would not cause a serious issue; I could pull this money out of my bank account.,"I'd do #1 and this would be an easy decision: I have the money available in my bank account, so I wouldn't need to take a loan that would come with extra money in the long run, and I wouldn't want to miss a service that's necessary to keep the car running.","I would pay the full amount in cash; I have the money on hand and wouldn't want to pay extra interest. ",,,,
+2021-10-24 17:02:32,2021-10-24 17:06:06,IP Address,50.230.95.18,100,213,True,2021-10-24 17:06:06,R_22umAuayRTC1p9q,,,,,37.4828033447265625,-122.2144012451171875,anonymous,EN,,25,"$70,000",Professional degree,Student,2,Female,,White,,"I think I would be able to maintain my current lifestyle. If anything, I would be more conscious of how often I eat out, perhaps ending a gym membership. ","It would be very easy to make that expense. I would take it out of my checking account and it would be no big deal. No lasting hardship, or even immediate hardship. ",Pay in full. No biggie,"1. ",,,,
+2021-10-24 17:57:19,2021-10-24 18:06:15,IP Address,99.151.194.132,100,536,True,2021-10-24 18:06:16,R_2TzbJv82oeZoefp,,,,,32.753692626953125,-96.836700439453125,anonymous,EN,,33,"$70,000",Doctorate,Employed full time,2,Male,,Hispanic/Latinx,,,,,,It would impact my travel plans.,It would empty my savings...,Full amount. Liquidate savings.,Monthly payments. Wouldn't clear savings.
