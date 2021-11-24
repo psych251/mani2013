@@ -32,9 +32,46 @@ Original paper (as hosted in your repo): [Link to paper](https://github.com/psyc
 
 ## Methods
 
+### Power Analysis
+
+[will come back and add later]
+
+### Planned Sample
+
+Participants from low and high SES backgrounds will be randomly assigned to either a hard or easy condition. In the original study, 101 adults (mean age = 35.3 years; 65 F) participated in their first experiment. While it is not explicitly clear how many participants were in each group, it is highly likely that approximately 50 participants were divided between each condition, and then further divided between high or low SES for a total of 25 participants per group. 
+
+Therefore, at the very least, I anticipate to recruit 25 participants per group (50 low and 50 high SES participants each randomly assigned to hard or easy conditions). Additionally, there will be a preference for adults around the age of 35.
+
+### Materials
+
+### Procedure
+
+"In experiment 1, participants (n = 101) were presented with four hypothetical scenarios a few minutes apart. Each scenario described a financial problem the participants might experience. For example: "Your car is having some trouble and requires $X to be fixed. You can pay in full, take a loan, or take a chance and forego the service at the moment... How would you go about making this decision?" These scenarios, by touching on monetary issues, are meant to trigger
+thoughts of the participant's own finances. They are intended to bring to the forefront any nascent, easy to activate, financial concerns. After viewing each scenario, and while thinking about how they might go about solving the problem, participants performed two computer-based tasks used to measure cognitive function:Raven's Progressive Matrices and a spatial compatibility task. The Raven's test involves a sequence of shapes with one shape missing (27)
+Participants must choose which of several alternatives best fits in the missing space. Raven's test is a common component in IQ tests and is used to measure "fluid intelligence," the capacity to think logically and solve problems in novel situations, independent of acquired knowledge (28, 29). The spatial incompatibility task requires participants to respond quickly and often contrary to their initial impulse. Presented with figures on the screen, they must press the same side in response to some stimuli but press the opposite side in response to others. The speed and accuracy of response measures cognitive control (30), the ability to guide
+thought and action in accordance with internal goals (31). Both are nonverbal tasks, intended to minimize the potential impact of literacy skills. Upon completion of these tasks, participants responded to the original scenario by typing their answers on the computer or speaking to a tape recorder and then moved on to the next scenario (an analysis of participants' responses to the scenarios is available in table S1). We also collected participants' income information at the end of the experiment."
+
+Procedure will follow similar steps as the original study with a few differences given the online nature of this project. First, after reviewing each scenario, participants will complete a comprehension check to ensure that each scenario was carefully read. Since there are no time restrictions on reviewing the survey given the nature of how the task is being completed, it can be likely that I will not replicate a the results not because of a lack of a scarcity effect but rather because participants did not adequately or seriously review each of the scenarios. Therefore, to ensure each participant carefully examined them, a 4-item questionnaire will be administered asked individuals to report back values that they read. Second, I will only be comparing results from the cognitive control task (i.e., the spatial incompatibility task). 
+
+Additionally, a major change in my project is that participants will do a significant amount of trials compared to the original study. According to the supplemental materials from Mani et al. (2013), participants only completed 10 practice trials of the heart and flowers task and after answering each one trial correctly could they complete the experimental task. However, the authors report that they only completed three trials. For my task, participants will complete 3 blocks of XX trials. 
+
+### Analysis Plan
+
+Ultimately, I aim to produce two figures: a bar chart comparing overall accuracy on the cognitive control task between each group; and a scatter plot fitting a regression model for participants in each condition. 
+
 ### Description of the steps required to reproduce the results
 
-Please describe all the steps necessary to reproduce the key result(s) of this study. 
+**Step 1:** There must be an equal number of participants within each of my 4 groups AND there must be a balanced number of participants from various income backgrounds (i.e., not too many high SES in the easy condition).
+
+**Step 2:** Will need to use reported household income with household size in order to determine income-to-needs ration (INR) and use U.S. Federal Poverty guidelines to determine if an individual participant is high or low SES. Will probably recruit in at least two waves: first recruit high SES and then recruit low SES. This will help ensure that I accomplish Step 1.   
+
+**Step 3:** To ensure that participants carefully read and internalized each scenario, I will ask participants report results on a simple comprehension check. I will also use Qualtrics information to identify the length of completion to submit the survey prior. This will be paramount to ensure that participants are in a state of mind where they are thinking about their finances prior to engaging in the cognitive control task. 
+
+**Step 4:** For the cognitive control task, I will need to know two things: their accuracy and reaction time on each trial. 
+
+**Step 5:**
+
+**Step 6:**
 
 ### Differences from original study
 
@@ -44,8 +81,11 @@ Explicitly describe known differences in the analysis pipeline between the origi
 
 ### Measure of success
 
-Please describe the outcome measure for the success or failure of your reproduction and how this outcome will be computed.
-
+My analysis will be successful if I am able to reproduce the following:
+* No significant differences emerge between participants in the easy condition based on a t-test
+* A t-test reveals that low SES participants in the hard condition will have lower accuracy
+* A two-way analysis of variance (ANOVA) will highlight a robust interaction between income and condition
+* Regression models will confirm that as income will be predictive of accuracy for participants in the hard condition only (and not predicitve for participants in the easy condition)
 
 ### Pipeline progress
 
